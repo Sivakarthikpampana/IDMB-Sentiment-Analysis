@@ -29,6 +29,7 @@ NLTK (Natural Language Toolkit)
 Matplotlib, Seaborn
 
 ✨ **Learnings**
+
 Hands-on experience with Natural Language Processing (NLP).
 
 Improved understanding of text preprocessing and feature extraction.
